@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nax1800
+- 👋 Hi, I’m nax1800
 - 👀 I’m interested in Game Modding
-- 🌱 I’m currently learning C++, C#, Reverse Engineering
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nax#1800 on discord
+- 🌱 I’m currently learning C++, C# and Reverse Engineering
+- 📫 How to reach me? @nax1800 on Discord and X 
